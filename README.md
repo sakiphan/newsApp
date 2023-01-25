@@ -6,7 +6,7 @@ It uses Metro, the JavaScript bundler for React Native to join the code and all 
 
 ## Setup
 
-This project uses React Native. For first time set up, inside the `/MaharaMobile` folder, run:
+This project uses React Native. For first time set up, inside the `/newsApp` folder, run:
 
  ```bash
  npm install && npm start
